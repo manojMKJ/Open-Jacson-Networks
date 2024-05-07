@@ -1,4 +1,4 @@
-[# Series Queues with infinite capacity - Open Jackson Network
+# Series Queues with infinite capacity - Open Jackson Network
 
 # Name: Manoj Kumar G
 # Register No:212222230078
